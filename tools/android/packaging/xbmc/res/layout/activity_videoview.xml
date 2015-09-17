@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical" 
+  android:id="@+id/root_view"
+    android:background="@android:color/black" >
+<!--
+	<org.xbmc.kodi.VideoPlayView
+    	android:id="@+id/VideoPlayView1"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+		android:layout_gravity="center"
+    	android:background="@android:color/transparent" >
+	</org.xbmc.kodi.VideoPlayView>
+-->
+</FrameLayout> 
