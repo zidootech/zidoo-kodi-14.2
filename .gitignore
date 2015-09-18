@@ -130,6 +130,7 @@ config.log
 /lib/Makefile
 /lib/*/1
 /lib/*/win32/1
+!lib/libvrender/libvrender.so
 
 # /lib/asap/
 /lib/asap/Makefile
