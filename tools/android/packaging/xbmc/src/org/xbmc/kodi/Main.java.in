@@ -143,7 +143,6 @@ public class Main extends NativeActivity
     if (mVideoPlayView != null)
       mVideoPlayView.setSurfaceListener(null);
     super.onDestroy();
-    mZidooPermissions.release();
   }
   
   public void CreateSurface()
